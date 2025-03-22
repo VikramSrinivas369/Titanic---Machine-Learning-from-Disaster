@@ -113,9 +113,6 @@ The analysis uses the famous Titanic dataset, which includes information about p
 - Handling of outliers and investigation of their impact on model performance
 - Deployment as a web application for interactive predictions
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
