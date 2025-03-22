@@ -97,13 +97,6 @@ The analysis uses the famous Titanic dataset, which includes information about p
 - Certain passenger titles (like 'Mrs' and 'Miss') had higher survival rates
 - Cabin deck information was a strong predictor of survival
 
-## Visualization Examples
-
-![Survival by Class and Gender](https://github.com/yourusername/titanic-survival-analysis/blob/main/images/class_gender_survival.png)
-
-![Age Distribution](https://github.com/yourusername/titanic-survival-analysis/blob/main/images/age_distribution.png)
-
-![Feature Importance](https://github.com/yourusername/titanic-survival-analysis/blob/main/images/feature_importance.png)
 
 ## Future Improvements
 
